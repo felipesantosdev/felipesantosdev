@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  ⚛️<strong>React Developer</strong>
+  ⚛️ <strong>React Developer</strong>
 </p>
 
 <p align="left">
