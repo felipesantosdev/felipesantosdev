@@ -10,6 +10,10 @@
 </p>
 
 <p align="left">
+  ⚛️<strong>React Developer</strong>
+</p>
+
+<p align="left">
   💼 Ferramentas: <strong>Visual Studio Code, Figma, Adobe XD, Photoshop, After Effects e Illustrator.</strong>
 </p>
 
